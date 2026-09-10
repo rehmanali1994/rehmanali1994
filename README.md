@@ -2,9 +2,7 @@
 
 ### Computational Ultrasound Imaging · Inverse Problems · Medical Imaging
 
-I develop physics-based computational methods for quantitative ultrasound imaging, with a focus on wave physics, ultrasound tomography, sound-speed estimation, aberration correction, and full-waveform inversion (FWI).
-
-🏆 I am currently supported by an [NIH K99/R00 Pathway to Independence Award](https://reporter.nih.gov/project-details/11110522) to build my own computational ultrasound imaging research program.  
+I develop physics-based computational methods for quantitative ultrasound imaging, with a focus on wave physics, ultrasound tomography, sound-speed estimation, aberration correction, and full-waveform inversion (FWI).  I am currently supported by the [NIH K99/R00 Pathway to Independence Award 🏆](https://reporter.nih.gov/project-details/11110522) establish an independent research program in computational ultrasound imaging.
 
 🌐 **[Academic Website →](https://rehmanali1994.github.io)**
 
