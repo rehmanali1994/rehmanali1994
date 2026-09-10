@@ -1,15 +1,10 @@
 # Rehman Ali 👋
 
-### Computational Ultrasound Imaging · Inverse Problems · Medical Imaging · Full-Waveform Inversion (FWI)
+### Computational Ultrasound Imaging · Inverse Problems · Medical Imaging
 
-I develop physics-based computational methods for quantitative ultrasound imaging, with a focus on wave physics, ultrasound tomography, sound-speed estimation, aberration correction, and full-waveform inversion.
+I develop physics-based computational methods for quantitative ultrasound imaging, with a focus on wave physics, ultrasound tomography, sound-speed estimation, aberration correction, and full-waveform inversion (FWI).
 
 🏆 [NIH K99/R00 Pathway to Independence Award](https://reporter.nih.gov/project-details/11110522)
-
-🔬 Research
-
-Medical ultrasound · Computational imaging · Inverse problems
-· Wave-equation imaging · Scientific computing
 
 🌐 **[Academic Website →](https://rehmanali1994.github.io)**
 
